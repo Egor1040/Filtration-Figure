@@ -1,0 +1,82 @@
+[
+    {
+        "url": "img/redcircle.svg",
+        "color": "red",
+        "shape": "circle"
+    },
+    {
+        "url": "img/greenhexagon.svg",
+        "color": "green",
+        "shape": "hexagon"
+    },
+    {
+        "url": "img/yellowhexagon.svg",
+        "color": "yellow",
+        "shape": "hexagon"
+    },
+    {
+        "url": "img/greenhexagon.svg",
+        "color": "green",
+        "shape": "hexagon"
+    },
+    {
+        "url": "img/redsquare.svg",
+        "color": "red",
+        "shape": "square"
+    },
+    {
+        "url": "img/yellowcircle.svg",
+        "color": "yellow",
+        "shape": "circle"
+    },
+    {
+        "url": "img/greencircle.svg",
+        "color": "green",
+        "shape": "circle"
+    },
+    {
+        "url": "img/greenhexagon.svg",
+        "color": "green",
+        "shape": "hexagon"
+    },
+    {
+        "url": "img/redcircle.svg",
+        "color": "red",
+        "shape": "circle"
+    },
+    {
+        "url": "img/redsquare.svg",
+        "color": "red",
+        "shape": "square"
+    },
+    {
+        "url": "img/yellowsquare.svg",
+        "color": "yellow",
+        "shape": "square"
+    },
+    {
+        "url": "img/redhexagon.svg",
+        "color": "red",
+        "shape": "hexagon"
+    },
+    {
+        "url": "img/greenhexagon.svg",
+        "color": "green",
+        "shape": "hexagon"
+    },
+    {
+        "url": "img/yellowcircle.svg",
+        "color": "yellow",
+        "shape": "circle"
+    },
+    {
+        "url": "img/redcircle.svg",
+        "color": "red",
+        "shape": "circle"
+    },
+    {
+        "url": "img/redsquare.svg",
+        "color": "red",
+        "shape": "square"
+    }
+]

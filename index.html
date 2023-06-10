@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="filters">
+        <ul class="filters__color">
+            <li data-color="red">
+                <img src="img/redcircle.svg" alt="">
+            </li>
+            <li data-color="yellow">
+                <img src="img/yellowcircle.svg" alt="">
+            </li>
+            <li data-color="green">
+                <img src="img/greencircle.svg" alt="">
+            </li>
+        </ul>
+
+        <ul class="filters__shape">
+            <li class="elements__item--circle" data-shape="circle">
+                <img src="img/silvercircle.svg" alt="">
+            </li>
+            <li class="elements__item--square" data-shape="square">
+                <img src="img/silversquare.svg" alt="">
+            </li>
+            <li class="elements__item--hexagon"data-shape="hexagon">
+                <img src="img/silverhexagon.svg" alt="">
+            </li>
+        </ul>
+        
+        <div class="button add">Фільтрувати</div>
+
+        <div class="button clear">Відмінити</div>  
+
+        <ul class="elements"></ul>
+
+        <div class="total">
+            Разом: <span class="total__number">0</span>
+            <span class="total__words">елементів</span>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+</body>
+</html>
